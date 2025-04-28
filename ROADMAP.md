@@ -131,8 +131,3 @@ Eine flexible, sichere und erweiterbare Chat-Plattform, die über Web, native Ap
 *   **Erweiterbarkeit:**  Einfache Integration neuer Funktionen und Dienste.
 *   **Testbarkeit:**  Umfassende Unit- und Integrationstests.
 *   **Wartbarkeit:**  Gut dokumentierter Code, klare Architektur.
-
-## VIII. Team
-
-*   Leander (du) - Fachinformatiker für Systemintegration (Hauptentwickler)
-*   (Weitere Teammitglieder, falls vorhanden)
