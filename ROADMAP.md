@@ -29,9 +29,9 @@ Eine flexible, sichere und erweiterbare Chat-Plattform, die über Web, native Ap
 *   **Features:**
     *   [ ]  Medien-Upload (Bilder, Videos, Dateien)
     *   [ ]  Discord-Integration:
-        *   [ ]  Nachrichten von SynapseChat zu Discord (als Benutzer)
-        *   [ ]  Nachrichten von Discord zu SynapseChat (als Benutzer)
-        *   [ ]  Handhabung großer Mediendateien (Link zu SynapseChat)
+        *   [ ]  Nachrichten von LuminaTalk zu Discord (als Benutzer)
+        *   [ ]  Nachrichten von Discord zu LuminaTalk (als Benutzer)
+        *   [ ]  Handhabung großer Mediendateien (Link zu LuminaTalk)
     *   [ ]  Benachrichtigungen (Push-Benachrichtigungen für Web & Mobile)
     *   [ ]  Suche (Chat-Verlauf)
 
@@ -40,7 +40,7 @@ Eine flexible, sichere und erweiterbare Chat-Plattform, die über Web, native Ap
 *   **Ziel:**  Bereitstellung einer öffentlichen API für die Entwicklung von Custom Apps.
 *   **Dauer:**  8-10 Wochen
 *   **Features:**
-    *   [ ]  Definition und Dokumentation der SynapseChat API (RESTful)
+    *   [ ]  Definition und Dokumentation der LuminaTalk API (RESTful)
     *   [ ]  Authentifizierung für API-Zugriff (OAuth 2.0)
     *   [ ]  Unterstützung für Webhooks (Ereignisbenachrichtigungen)
     *   [ ]  Beispiel-Apps (Dokumentation & Code-Beispiele)
@@ -116,11 +116,11 @@ Eine flexible, sichere und erweiterbare Chat-Plattform, die über Web, native Ap
 
 ## VI. Discord-Integration (Details)
 
-*   **Bot-Konto:**  SynapseChat benötigt ein Bot-Konto auf dem Discord-Server.
-*   **Webhooks:**  SynapseChat verwendet Webhooks, um Nachrichten in Discord zu posten.
-*   **Discord-Befehle:**  Benutzer können Discord-Befehle verwenden, um Aktionen in SynapseChat auszulösen (z.B. `/synapsechat send <message>`).
-*   **Mapping:**  Ein Mapping zwischen SynapseChat-Benutzern und Discord-Benutzern muss existieren.
-*   **Berechtigungen:**  Die Discord-Integration muss die Berechtigungen der Benutzer in SynapseChat respektieren.
+*   **Bot-Konto:**  LuminaTalk benötigt ein Bot-Konto auf dem Discord-Server.
+*   **Webhooks:**  LuminaTalk verwendet Webhooks, um Nachrichten in Discord zu posten.
+*   **Discord-Befehle:**  Benutzer können Discord-Befehle verwenden, um Aktionen in LuminaTalk auszulösen (z.B. `/LuminaTalk send <message>`).
+*   **Mapping:**  Ein Mapping zwischen LuminaTalk-Benutzern und Discord-Benutzern muss existieren.
+*   **Berechtigungen:**  Die Discord-Integration muss die Berechtigungen der Benutzer in LuminaTalk respektieren.
 
 ## VII.  Qualitätsmerkmale
 
